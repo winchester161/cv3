@@ -1,0 +1,64 @@
+.btn-facebook{
+	color:#fff;
+	background-color:#3b5998;
+	border-color:rgba(0,0,0,0.2)
+
+}
+.btn-facebook:hover,.btn-facebook:focus,.btn-facebook:active,.btn-facebook.active,.open .dropdown-toggle.btn-facebook{
+	color:#fff;
+	background-color:#30487b;
+	border-color:rgba(0,0,0,0.2)
+}
+.btn-facebook:active,.btn-facebook.active,.open .dropdown-toggle.btn-facebook{
+	background-image:none
+}
+.btn-facebook.disabled,
+.btn-facebook[disabled],fieldset[disabled] .btn-facebook,.btn-facebook.disabled:hover,.btn-facebook[disabled]:hover,fieldset[disabled] .btn-facebook:hover,.btn-facebook.disabled:focus,.btn-facebook[disabled]:focus,fieldset[disabled] .btn-facebook:focus,.btn-facebook.disabled:active,.btn-facebook[disabled]:active,fieldset[disabled] .btn-facebook:active,.btn-facebook.disabled.active,.btn-facebook[disabled].active,fieldset[disabled] .btn-facebook.active{background-color:#3b5998;border-color:rgba(0,0,0,0.2)}
+
+.btn-linkedin{color:#fff;background-color:#007bb6;border-color:rgba(0,0,0,0.2)}.btn-linkedin:hover,.btn-linkedin:focus,.btn-linkedin:active,.btn-linkedin.active,.open .dropdown-toggle.btn-linkedin{color:#fff;background-color:#005f8d;border-color:rgba(0,0,0,0.2)}
+.btn-linkedin:active,.btn-linkedin.active,.open .dropdown-toggle.btn-linkedin{background-image:none}
+
+.btn-social-icon {
+	list-style:none;
+	float:left;
+}
+.social-networks-list .list-item {
+	list-style-type: none;
+	float: left;
+	margin-left: 20px; 
+}
+.timeline-panel {
+    border: 1px solid #d4d4d4;
+    border-radius: 2px;
+    padding: 35px 20px 20px 20px;
+    -webkit-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
+    margin-top: 20px;
+}
+.timeline{
+	list-style: none;
+}
+.timeline-title {
+    margin-top: 20px;
+    margin-left: 20px;
+    color: inherit;
+}
+
+#web-skills .timeline-body {
+	margin-top: 15px;
+}
+
+.timeline-body > p,
+.timeline-body > ul {
+	font-family: "Helvetica Neue", Helvetica,Arial, sans-serif;
+	font-size: 14px;
+	line-height: 1.428571429;
+    margin-bottom: 0;
+}
+.timeline-body.timeline-panel > h4 {
+	border: 1px solid #d4d4d4;
+    border-radius: 2px;
+    padding: 20px;
+    -webkit-box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.175);
+}
